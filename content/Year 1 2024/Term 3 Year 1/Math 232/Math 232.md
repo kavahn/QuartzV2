@@ -5,7 +5,6 @@
 %% Begin Waypoint %%
 - **[[Assignments]]**
 	- **Computing Assignment 1**
-		- [[Output]]
 		- [[Report draft]]
 		- [[Report]]
 	- **Computing Assignment 2**
