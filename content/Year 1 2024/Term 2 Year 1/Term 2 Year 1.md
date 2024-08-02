@@ -15,12 +15,6 @@
 	- **In Class notes**
 		- [[Span]]
 	- [[Untitled]]
-- **Phys 120**
-	- **In Class Notes**
-		- [[Angular Momentum]]
-		- [[Lever]]
-		- [[Review]]
-		- [[Right Hand Rule]]
-	- [[Phys 120]]
+- **[[Phys 120]]**
 
 %% End Waypoint %%

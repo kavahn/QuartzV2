@@ -1,3 +1,4 @@
+
 # Kirchhoff's Voltage Rules
 - ###### Stats that the sum of the $\Delta V$ (voltage drops) caused by anything around a loop must be zero
 	- why?? because the potential defference between them is 
