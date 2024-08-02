@@ -1,0 +1,23 @@
+# What is an Argument
+- #### it is a set of statements that has a 
+	- Premise + Premise = Conclusion
+	- the premise must be true so that the conclusion is true
+# What is a Deductive Argument
+- #### It is Valid
+	- #### Valid Arguments
+		- if a argument is valid
+			- it has to have the truth preserved  
+		- However arguments can be invalid even if the premise is true 
+			- but the conclusion is false
+	- #### Thats a true statement => that's a valid argument
+	- #### Some arguments look valid but are not
+		- All A are B
+			- X is a B
+			- X is an A (NOT TRUE) because As are in the set of Bs, Bs are bigger than As therefore the argument is invalid
+- ### Example
+	- ###### Alsl A are B
+		- x is an A
+			- => X is a A and B
+	- ###### No A are B
+		- x is an A
+			- => X is not a B

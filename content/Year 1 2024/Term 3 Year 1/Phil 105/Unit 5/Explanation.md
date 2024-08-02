@@ -1,0 +1,13 @@
+# What is explanation
+- #### We have a conclustion then we try to work back wards to make a real argument
+- ## Competeing and non-competing explanations
+	- #### What are competing explanations
+		- multiple possible explanations but only *one* could be true
+	- #### Examlpe
+		- ###### Observation:
+			- a seal got an eel stuck up its nose
+		- ###### Competing explanations
+			- 1. a seal suprised an eel, and it swam into seal nose
+			- 2. a seal ate an eel then reguritated it the wrong way
+		- #### all of these explanations where only one could be true
+- 

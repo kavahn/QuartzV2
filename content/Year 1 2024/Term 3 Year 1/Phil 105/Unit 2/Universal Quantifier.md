@@ -1,0 +1,21 @@
+# Also known as all yes all no
+- ###### Such as the oath for testomoney
+	- I solemnly affirm that the evidence to be given by me shall be the truth: *The whole truth* *nothing but the truth*
+		- *the whole truth* All the truth (wont be lying by ommsion)
+		- *nothing but the truth* 
+- #### Sentence structure
+	- ###### SVO
+		- Subject
+		- Verb
+		- object
+	- ###### SP
+		- Subject 
+		- Predicate 
+- #### Predicate
+	- its like the general catagory such as 
+		- every spider *produces silk*
+		- all spiders *produce silk*
+		- all *spiders* are *silk-producers*
+			- we need to have the noun to be the suject
+	- we can see them sets of catagorys such as spiders and silk producers,
+		- spiders would be in the set of silk producesers 
