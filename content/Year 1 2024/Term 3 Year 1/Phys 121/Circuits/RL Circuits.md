@@ -1,12 +1,38 @@
-# What is an inductor (building off [[Inductance]])
-- #### LONG ASS SOLIDOID :rage: 
-	- they can have energy stored in it :fear:
-
-# How to the inductor impacts the circuit
-- ### It stops current from traveling instantaneously
-- #### to find current [[Kirchhoff's Rules]] are needed
-	-  we would need to write out all of the components that effect the loop the inductor is in, 
-		- we then get a differential equation that is almost the same as [[RC Circuit]]s 
-- #### to find voltage
-	- $V_{L}=L{\frac{dI}{dt}}$
-	- 
+# RL Circuits building off [[Inductance]]
+- #### Overview
+    - An RL (Resistor-Inductor) circuit contains both inductors and resistors.
+    - These circuits are fundamental in understanding how the current changes when influenced by inductance and resistance.
+- ### Inductors in a Circuit
+    - Inductors oppose changes in current. When current changes, an electromotive force (emf) is induced.
+    - The induced emf ($\varepsilon$) across an inductor is given by:
+        - $\displaystyle \varepsilon = -L \frac{dI}{dt}$
+        - Where $L$ is the inductance and $\frac{dI}{dt}$ is the rate of change of current.
+- ### RL Circuit during Current Change
+    - When an RL circuit is connected to a voltage source $V_0$ at $t=0$, the current through the inductor changes over time:
+        - $\displaystyle I(t) = \frac{V_0}{R} \left(1 - e^{-\frac{R}{L}t}\right)$
+        - Voltage across the Resistor: $\displaystyle V_R(t) = I(t)R = V_0 \left(1 - e^{-\frac{R}{L}t}\right)$
+        - Voltage across the Inductor: $\displaystyle V_L(t) = V_0 e^{-\frac{R}{L}t}$
+    - The time constant ($\tau$) of an RL circuit is defined as $\tau = \frac{L}{R}$, indicating how quickly the current reaches its maximum value.
+- ### Example of RL Circuit during Current Change
+    - #### Given:
+        - Inductance: $L = 1\ \text{H}$
+        - Resistance: $R = 10\ \Omega$
+        - Voltage source: $V_0 = 5\ \text{V}$
+    - #### Calculate:
+        - Time constant ($\tau$): $\tau = \frac{L}{R} = \frac{1\ \text{H}}{10\ \Omega} = 0.1\ \text{sec}$
+        - Current at $t = 0.2\ \text{sec}$: $I(t) = \frac{5\ \text{V}}{10\ \Omega} \left(1 - e^{-\frac{10}{1} \cdot 0.2}\right) = 0.5 \left(1 - e^{-2}\right)\ \text{A}$
+- ### Discharging an Inductor
+    - When the switch in an RL circuit is opened, the current through the circuit decreases exponentially.
+    - The current and voltage at any time $t$ during discharging are given by:
+        - $\displaystyle I(t) = I_0 e^{-\frac{R}{L}t}$
+        - $\displaystyle V_L(t) = -L \frac{dI}{dt} = I_0 R e^{-\frac{R}{L}t}$
+        - $I_0$ is the initial current at $t = 0$.
+- ### Example of Discharging RL Circuit
+    - #### Given:
+        - Inductance: $L = 2\ \text{H}$
+        - Resistance: $R = 5\ \Omega$
+        - Initial current: $I_0 = 1\ \text{A}$
+    - #### Calculate:
+        - Time constant ($\tau$): $\tau = \frac{L}{R} = \frac{2\ \text{H}}{5\ \Omega} = 0.4\ \text{sec}$
+        - Current at $t = 0.5\ \text{sec}$: $I(t) = 1\ \text{A} \times e^{-\frac{5}{2} \cdot 0.5} = e^{-1.25}\ \text{A}$
+        - Voltage across inductor at $t = 0.5\ \text{sec}$: $V_L(t) = -L \frac{dI}{dt} = -2\ \text{H} \times \left(-\frac{5}{2} e^{-1.25}\ \text{A/sec} \right) = 5 e^{-1.25}\ \text{V}$`[1]``[2]``[3]`.

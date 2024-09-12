@@ -11,7 +11,7 @@
 	- this only works if B is uniform in the amperian loop
 
 # Solid wire carrying uniform current I
-- ![[Amperes Law-20240712001351243.png|300]]
+- ![[Amperes Law-20240712001351243.png|620]]
 	- #### r < R
 		- $B(2\pi r)=\mu_{0}\left( \frac{I}{\pi R^2} \right)(\pi r^2)$
 	- #### r > R

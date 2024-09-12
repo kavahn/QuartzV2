@@ -5,3 +5,9 @@
 			- the velocity of these waves are the speed of light C
 		- ![[Electromagnetic waves and spectrum-20240730202300171.png|472]]
 - 
+# Electromagnetic Waves 
+- #### Equation describing Harmonic waves
+	- ![[Electromagnetic waves and spectrum-20240803080745730.png|432]]
+	- $E_{x}=E_{0}\cos(kz-wt)$
+	- $B_{y}=\frac{k}{w}E_{0}\cos(kz-wt)$
+- 

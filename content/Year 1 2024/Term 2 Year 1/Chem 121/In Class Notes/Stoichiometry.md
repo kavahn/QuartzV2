@@ -1,5 +1,5 @@
 
-# Unit 3.6-3.10 [[Chem 121]]
+# Unit 3.6-3.10 [[Year 1 2024/Term 2 Year 1/Chem 121/Chem 121]]
 
 ## 3.6 Determining the formula of a compound
 - #### Combustion analysis

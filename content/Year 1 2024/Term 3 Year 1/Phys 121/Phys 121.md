@@ -23,12 +23,15 @@
 - **[[Magnetism]]**
 	- [[Amperes Law]]
 	- [[Biot-Savart Law]]
+	- [[Displacement Current]]
 	- [[Magnetic Dipole]]
 	- [[Magnetic Force]]
 - **Optics**
 	- [[Lenses]]
+	- [[Mirrors]]
 - **Waves**
 	- [[Electromagnetic waves and spectrum]]
+	- [[Interference]]
 	- [[Polarization]]
 	- [[Reflection and Refraction]]
 

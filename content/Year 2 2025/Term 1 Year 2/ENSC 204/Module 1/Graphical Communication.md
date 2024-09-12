@@ -1,0 +1,16 @@
+# Graphical communication
+- #### Employing visual tools and methods to effectively present engineering data
+- #### the skill to rapidly express design ideas using CAD
+- #### Essential in the design process
+- ### Why Graphical communication
+	- ###### It sernes as a universal language for design
+	- ###### As an engineer, you must share ideas (needs to be understandable for others)
+	- ###### All engineers, architects, drafters, designers, manufacturers, and technicians need to know about the technical drawings
+- ### Example of technical drawings
+	- concept or idea sketches
+	- computation sketches
+	- design sketeches
+	- layout drawings
+	- part drawings
+	- assembly drawings
+	- and more

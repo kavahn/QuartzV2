@@ -1,6 +1,6 @@
 # Classes 
 %% Begin Waypoint %%
-- **[[Chem 121]]**
+- **[[Year 1 2024/Term 2 Year 1/Chem 121/Chem 121]]**
 - **[[ENSC 180]]**
 - **Math 232 (old)**
 	- **Assignments**
@@ -14,7 +14,7 @@
 		- [[code 4]]
 	- **In Class notes**
 		- [[Span]]
-	- [[Untitled]]
+	- [[Boss computer issues]]
 - **[[Phys 120]]**
 
 %% End Waypoint %%

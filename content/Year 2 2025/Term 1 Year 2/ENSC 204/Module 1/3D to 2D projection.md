@@ -1,0 +1,11 @@
+# How do I find the projection
+- you just find the faces and imagine 
+- ## How to do a projection
+	- ###### Which faces do you see from A or B perspectives
+	- ###### locate the points for each visible face
+	- ###### can you imagine the hidden edges
+	- ###### Do not forget the hidden lines in your drawing
+- ## Some good practices:
+	- ###### Number each visible face: 1,2,3
+	- ###### Number each rcorresponding vectex: a,b,c..
+	- ###### Find/draw the maches on your drowing

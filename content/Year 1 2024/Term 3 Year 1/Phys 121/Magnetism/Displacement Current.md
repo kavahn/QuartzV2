@@ -1,0 +1,11 @@
+# Displacement Current
+- #### Real current:
+	- ###### Charge Q passes through area A in time t:
+		- $I=\frac{dQ}{dt}$
+- #### Displacement current: 
+	- ###### Electric flux through area A changes in time
+		- $I_{D}=\epsilon_{0}\frac{d\phi_{e}}{dt}$
+- ### These can combine and change [[Amperes Law]] into
+	- $\large\oint\vec{B}\cdot d\vec{l}=\mu_{0}\epsilon_{0}{\frac{d}{dt}}\int \vec{E}\cdot \, d\vec{A}$
+		- (this combines faraday's law and [[Amperes Law]]) 
+	- 

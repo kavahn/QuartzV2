@@ -3,18 +3,7 @@
 
 
 %% Begin Waypoint %%
-- **[[Assignments]]**
-	- **Computing Assignment 1**
-		- [[Report draft]]
-		- [[Report]]
-	- **Computing Assignment 2**
-		- [[Code]]
-		- [[Plots]]
-		- [[Report]]
-	- **Computing Assignment 3**
-		- [[Code]]
-		- [[Plots]]
-		- [[Report]]
+- **[[Year 1 2024/Term 3 Year 1/Math 232/Assignments/Assignments]]**
 - **Practice**
 	- [[Midterm 1]]
 - **Unit 1**
@@ -66,6 +55,10 @@
 - **Unit 7**
 	- [[7.1 Orthogonal and orthonormal bases]]
 	- [[7.2 Projection onto subspaces and Gram-Schmidt]]
+	- [[7.3 Method of Least Square]]
+- **Unit 8**
+	- [[8.1 Orthoganal Diagonalization]]
+	- [[8.5 Singular Value Decomposition]]
 - **Unit 9**
 	- [[Complex Numbers]]
 	- [[Polar Form]]

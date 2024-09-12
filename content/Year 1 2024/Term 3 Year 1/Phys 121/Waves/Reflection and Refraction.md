@@ -1,0 +1,22 @@
+# Reflection and refraction 
+- #### What is reflection and refraction
+	- ###### When something hits a different medium than it is currently in it reflects and refracts
+- #### An example and Equations 
+	- ![[Reflection and Refraction-20240803005819823.png|430]]
+	- ###### the angle of reflection is the same as the incoming angle
+		- $\theta_{1}=\theta_{r}$
+	- ###### Unlike sound (in air) the speed of light in matter is slower 
+		- $v=\frac{c}{n}$ , Sn is the coefficient of the medium
+	- ###### the equation dictating the path that the light takes is
+		- Snell's Law: $n_{1}\sin \theta_{1}=n_{2}\sin \theta_{2}$
+	- ###### The critical angle is when there is total internal reflection
+		- $\theta_{c}=\sin^{-1}\left( \frac{n_{2}}{n_{1}} \right)$
+	- ###### Brewster's angle 
+		- $\tan \theta_{1}=\frac{n_{2}}{n_{1}}$
+- #### Total internal reflection
+	- ###### is as the name suggests when the light beam is trapped in the medium and cannot escape
+		- ![[Reflection and Refraction-20240803010724035.png|487]]
+		- when the angle of incidence equals the critical angle $\theta_{c}:$ 
+			- $n_{1}\sin \theta_{c}=n_{2}\sin90\degree$ 
+			- $\theta_{c}=\sin^{-1}\left( \frac{n_{2}}{n_{1}} \right)$
+		- ###### When the angle of incidence exceeds $\theta_{c}$ total internal reflection occurs.
